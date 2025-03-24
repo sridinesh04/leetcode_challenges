@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sridinesh04/leetcode_challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Array
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
