@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sridinesh04/leetcode_challenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sridinesh04/leetcode_challenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
