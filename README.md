@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sridinesh04/leetcode_challenges/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Stack
 |  |
@@ -83,4 +84,20 @@
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
