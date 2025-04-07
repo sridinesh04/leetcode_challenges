@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sridinesh04/leetcode_challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/sridinesh04/leetcode_challenges/tree/master/2262-solving-questions-with-brainpower) |
 ## Graph
@@ -21,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/sridinesh04/leetcode_challenges/tree/master/2262-solving-questions-with-brainpower) |
