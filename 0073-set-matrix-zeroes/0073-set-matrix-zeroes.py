@@ -1,5 +1,5 @@
 class Solution:
-  def setZeroes(self, matrix: List[List[int]]) -> None:
+  def setZeroes(self, matrix: list[list[int]]) -> None:
     m = len(matrix)
     n = len(matrix[0])
     shouldFillFirstRow = 0 in matrix[0]
@@ -26,3 +26,4 @@ class Solution:
     if shouldFillFirstCol:
       for row in matrix:
         row[0] = 0
+        
