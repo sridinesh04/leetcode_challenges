@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sridinesh04/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
+| [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [1656-count-good-triplets](https://github.com/sridinesh04/leetcode_challenges/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sridinesh04/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
@@ -133,6 +135,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
