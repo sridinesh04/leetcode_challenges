@@ -12,6 +12,7 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sridinesh04/leetcode_challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sridinesh04/leetcode_challenges/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -29,6 +30,7 @@
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
 | [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/sridinesh04/leetcode_challenges/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Binary Tree
 |  |
 | ------- |
