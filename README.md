@@ -33,6 +33,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/sridinesh04/leetcode_challenges/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sridinesh04/leetcode_challenges/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/sridinesh04/leetcode_challenges/tree/master/2249-count-the-hidden-sequences) |
