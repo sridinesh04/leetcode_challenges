@@ -49,6 +49,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sridinesh04/leetcode_challenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -61,6 +62,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sridinesh04/leetcode_challenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sridinesh04/leetcode_challenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -102,6 +104,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
