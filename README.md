@@ -39,6 +39,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/sridinesh04/leetcode_challenges/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/sridinesh04/leetcode_challenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
