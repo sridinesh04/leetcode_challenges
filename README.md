@@ -7,6 +7,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sridinesh04/leetcode_challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/sridinesh04/leetcode_challenges/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Graph
@@ -108,6 +109,7 @@
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
@@ -137,6 +139,7 @@
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sridinesh04/leetcode_challenges/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -231,4 +234,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sridinesh04/leetcode_challenges/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
