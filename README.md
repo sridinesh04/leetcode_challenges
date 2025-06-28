@@ -37,6 +37,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sridinesh04/leetcode_challenges/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sridinesh04/leetcode_challenges/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/sridinesh04/leetcode_challenges/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/sridinesh04/leetcode_challenges/tree/master/2262-solving-questions-with-brainpower) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -93,6 +95,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sridinesh04/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sridinesh04/leetcode_challenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sridinesh04/leetcode_challenges/tree/master/2915-count-of-interesting-subarrays) |
@@ -147,6 +150,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
 ## Tree
 |  |
