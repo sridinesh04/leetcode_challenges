@@ -32,6 +32,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
 | [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/sridinesh04/leetcode_challenges/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sridinesh04/leetcode_challenges/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -200,6 +203,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sridinesh04/leetcode_challenges/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
