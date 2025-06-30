@@ -30,6 +30,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sridinesh04/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sridinesh04/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -236,6 +239,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Union Find
@@ -246,4 +250,8 @@
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
