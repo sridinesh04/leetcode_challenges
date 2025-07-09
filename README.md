@@ -62,6 +62,7 @@
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sridinesh04/leetcode_challenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
 | ------- |
