@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sridinesh04/leetcode_challenges/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -281,4 +282,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sridinesh04/leetcode_challenges/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
