@@ -10,6 +10,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3618-find-the-original-typed-string-ii) |
 ## Graph
 |  |
@@ -61,6 +62,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sridinesh04/leetcode_challenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
