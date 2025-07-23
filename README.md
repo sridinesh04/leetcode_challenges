@@ -123,11 +123,13 @@
 ## Stack
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sridinesh04/leetcode_challenges/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sridinesh04/leetcode_challenges/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -164,6 +166,7 @@
 | [0038-count-and-say](https://github.com/sridinesh04/leetcode_challenges/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sridinesh04/leetcode_challenges/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sridinesh04/leetcode_challenges/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
