@@ -68,6 +68,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sridinesh04/leetcode_challenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridinesh04/leetcode_challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridinesh04/leetcode_challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridinesh04/leetcode_challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
