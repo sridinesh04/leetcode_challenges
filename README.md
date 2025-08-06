@@ -73,6 +73,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridinesh04/leetcode_challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridinesh04/leetcode_challenges/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sridinesh04/leetcode_challenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2280-count-good-triplets-in-an-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2280-count-good-triplets-in-an-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
