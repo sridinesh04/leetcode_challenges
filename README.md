@@ -98,6 +98,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sridinesh04/leetcode_challenges/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sridinesh04/leetcode_challenges/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2050-count-good-numbers) |
@@ -221,6 +222,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sridinesh04/leetcode_challenges/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridinesh04/leetcode_challenges/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sridinesh04/leetcode_challenges/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -243,6 +245,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sridinesh04/leetcode_challenges/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
