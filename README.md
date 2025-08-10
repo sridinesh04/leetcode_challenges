@@ -81,6 +81,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sridinesh04/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/sridinesh04/leetcode_challenges/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sridinesh04/leetcode_challenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sridinesh04/leetcode_challenges/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/sridinesh04/leetcode_challenges/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sridinesh04/leetcode_challenges/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2050-count-good-numbers) |
@@ -121,6 +123,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sridinesh04/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/sridinesh04/leetcode_challenges/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/sridinesh04/leetcode_challenges/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sridinesh04/leetcode_challenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1813-maximum-erasure-value](https://github.com/sridinesh04/leetcode_challenges/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -235,6 +238,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sridinesh04/leetcode_challenges/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/sridinesh04/leetcode_challenges/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -292,6 +296,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/sridinesh04/leetcode_challenges/tree/master/0900-reordered-power-of-2) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sridinesh04/leetcode_challenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Union Find
