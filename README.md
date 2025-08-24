@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/0416-partition-equal-subset-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sridinesh04/leetcode_challenges/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sridinesh04/leetcode_challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/sridinesh04/leetcode_challenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -36,6 +37,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/sridinesh04/leetcode_challenges/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sridinesh04/leetcode_challenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sridinesh04/leetcode_challenges/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sridinesh04/leetcode_challenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/sridinesh04/leetcode_challenges/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/sridinesh04/leetcode_challenges/tree/master/1813-maximum-erasure-value) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sridinesh04/leetcode_challenges/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sridinesh04/leetcode_challenges/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/sridinesh04/leetcode_challenges/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sridinesh04/leetcode_challenges/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridinesh04/leetcode_challenges/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
