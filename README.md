@@ -70,6 +70,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -97,6 +98,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/sridinesh04/leetcode_challenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sridinesh04/leetcode_challenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/sridinesh04/leetcode_challenges/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sridinesh04/leetcode_challenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -113,6 +115,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/sridinesh04/leetcode_challenges/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sridinesh04/leetcode_challenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
@@ -249,6 +252,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sridinesh04/leetcode_challenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/2998-count-symmetric-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -339,4 +343,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sridinesh04/leetcode_challenges/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
