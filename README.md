@@ -118,6 +118,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sridinesh04/leetcode_challenges/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/sridinesh04/leetcode_challenges/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
