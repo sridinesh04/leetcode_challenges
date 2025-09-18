@@ -147,6 +147,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sridinesh04/leetcode_challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/sridinesh04/leetcode_challenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sridinesh04/leetcode_challenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3678-design-task-manager](https://github.com/sridinesh04/leetcode_challenges/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridinesh04/leetcode_challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
@@ -211,6 +212,7 @@
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/sridinesh04/leetcode_challenges/tree/master/2681-put-marbles-in-bags) |
+| [3678-design-task-manager](https://github.com/sridinesh04/leetcode_challenges/tree/master/3678-design-task-manager) |
 ## Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/sridinesh04/leetcode_challenges/tree/master/2280-count-good-triplets-in-an-array) |
+| [3678-design-task-manager](https://github.com/sridinesh04/leetcode_challenges/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/sridinesh04/leetcode_challenges/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
@@ -338,6 +341,7 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sridinesh04/leetcode_challenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/sridinesh04/leetcode_challenges/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
